@@ -7,3 +7,7 @@ Current toolchains:
 
 [2] arm-eabi-linaro-4.6.2
     GCC Linaro 4.6.2 (2011.10) toolchain
+
+[3] arm-linux-androideabi-4.7
+    GCC 4.7 from Google repo
+
