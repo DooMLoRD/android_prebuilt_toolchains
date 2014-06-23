@@ -11,9 +11,12 @@ Current toolchains:
 [3] arm-linux-androideabi-4.7
     GCC 4.7 from Google repo
 
-[4] arm-cortex_a15-linux-gnueabihf-linaro_4.8.3
+[4] arm-linux-androideabi-4.8
+    GCC 4.8 from Google repo
+
+[5] arm-cortex_a15-linux-gnueabihf-linaro_4.8.3
     GCC Linaro 4.8.3 (2014.03) Cortex A15 optimized toolchain
 
-[5] arm-cortex_a15-linux-gnueabihf-linaro_4.9.1
+[6] arm-cortex_a15-linux-gnueabihf-linaro_4.9.1
     GCC Linaro 4.9.1 (2014.04) Cortex A15 optimized toolchain
 
